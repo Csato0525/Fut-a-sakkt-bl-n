@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Futó a sakktáblán", "Futó a sakktáblán\Futó a sakktáblán.csproj", "{3BBA7717-17FE-4D8C-9BAC-F5BAECC89531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBA7717-17FE-4D8C-9BAC-F5BAECC89531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBA7717-17FE-4D8C-9BAC-F5BAECC89531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBA7717-17FE-4D8C-9BAC-F5BAECC89531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBA7717-17FE-4D8C-9BAC-F5BAECC89531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F85EAE-5121-4FBD-8E5B-1B40EC2FEFE5}
+	EndGlobalSection
+EndGlobal
